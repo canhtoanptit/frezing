@@ -17,6 +17,6 @@ class FriezeListItemViewModelFactory(
         modelClass: Class<T>,
         handle: SavedStateHandle
     ): T {
-        return FriezeListItemViewModel(repository, handle) as T
+        return FriezeListItemViewModel() as T
     }
 }

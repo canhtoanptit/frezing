@@ -1,10 +1,11 @@
-package com.canhtoan.freezing
+package com.canhtoan.freezing.ui
 
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuInflater
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
+import com.canhtoan.freezing.R
 import com.canhtoan.freezing.viewmodels.FriezeListItemViewModel
 
 class ItemListFragment : Fragment() {

@@ -2,6 +2,7 @@ package com.canhtoan.freezing
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.canhtoan.freezing.ui.ItemListFragment
 
 class MainActivity : AppCompatActivity() {
 
